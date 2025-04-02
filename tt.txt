@@ -1,0 +1,7 @@
+ameaças: senha fraca, falha no acesso, perda de dados, limitar acesso a demais conteúdos dentro do setor empresarial
+probabilidade:media, media, media, alta
+impacto: alto, médio, alto, alto
+estratégia de resposta:senha forte com diferentes caracteres, recuperação de senha usando um email ou numero e código de verificação, backup diário e amarzenamento, adicionar um bloqueio em sites duvidoso.
+
+
+
